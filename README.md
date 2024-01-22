@@ -1,7 +1,7 @@
 ```
 - 👋 Hi, I’m @1lavign
 - 👀 I’m interested in CyberSecurity 
-- 🌱 I’m currently learning Crypto 
+- 🌱 I’m currently learning Blockchain and Cryptocurrency 
 ```
 
 ```
